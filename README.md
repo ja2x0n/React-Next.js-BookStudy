@@ -1,7 +1,7 @@
 # 리액트, Next.js로 완성하는 프론트엔드
 
 <p align="center">
-  <img src="./book-cover.png" alt="리액트, Next.js로 완성하는 프론트엔드 책 표지" width="420" />
+  <img src="https://github.com/ja2x0n/react-nextjs-book-study/raw/1b3ff66d5ab235cc8c71b9b151c4706cabb5fb9a/book-cover.png" alt="리액트, Next.js로 완성하는 프론트엔드 책 표지" width="420" />
 </p>
 
 ## 📚 학습 목적
