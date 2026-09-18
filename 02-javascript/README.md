@@ -43,7 +43,7 @@
 - `02-javascript-status.md` ✅
 - `03-variable-and-function.md` ✅
 - `04-object-and-array.md` ✅
-- `05-class-and-prototype.md`
+- `05-class-and-prototype.md` ✅
 - `06-async-and-single-thread.md`
 - `07-module-import-export.md`
 
